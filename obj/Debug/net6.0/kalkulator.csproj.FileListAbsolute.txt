@@ -1,0 +1,30 @@
+F:\Kuliah\Pemograman\kalkulator\bin\Debug\net6.0\kalkulator.exe
+F:\Kuliah\Pemograman\kalkulator\bin\Debug\net6.0\kalkulator.deps.json
+F:\Kuliah\Pemograman\kalkulator\bin\Debug\net6.0\kalkulator.runtimeconfig.json
+F:\Kuliah\Pemograman\kalkulator\bin\Debug\net6.0\kalkulator.dll
+F:\Kuliah\Pemograman\kalkulator\bin\Debug\net6.0\kalkulator.pdb
+F:\Kuliah\Pemograman\kalkulator\obj\Debug\net6.0\kalkulator.csproj.AssemblyReference.cache
+F:\Kuliah\Pemograman\kalkulator\obj\Debug\net6.0\kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+F:\Kuliah\Pemograman\kalkulator\obj\Debug\net6.0\kalkulator.AssemblyInfoInputs.cache
+F:\Kuliah\Pemograman\kalkulator\obj\Debug\net6.0\kalkulator.AssemblyInfo.cs
+F:\Kuliah\Pemograman\kalkulator\obj\Debug\net6.0\kalkulator.csproj.CoreCompileInputs.cache
+F:\Kuliah\Pemograman\kalkulator\obj\Debug\net6.0\kalkulator.dll
+F:\Kuliah\Pemograman\kalkulator\obj\Debug\net6.0\refint\kalkulator.dll
+F:\Kuliah\Pemograman\kalkulator\obj\Debug\net6.0\kalkulator.pdb
+F:\Kuliah\Pemograman\kalkulator\obj\Debug\net6.0\kalkulator.genruntimeconfig.cache
+F:\Kuliah\Pemograman\kalkulator\obj\Debug\net6.0\ref\kalkulator.dll
+F:\Kuliah\S2- Pemograman\kalkulator\bin\Debug\net6.0\kalkulator.exe
+F:\Kuliah\S2- Pemograman\kalkulator\bin\Debug\net6.0\kalkulator.deps.json
+F:\Kuliah\S2- Pemograman\kalkulator\bin\Debug\net6.0\kalkulator.runtimeconfig.json
+F:\Kuliah\S2- Pemograman\kalkulator\bin\Debug\net6.0\kalkulator.dll
+F:\Kuliah\S2- Pemograman\kalkulator\bin\Debug\net6.0\kalkulator.pdb
+F:\Kuliah\S2- Pemograman\kalkulator\obj\Debug\net6.0\kalkulator.csproj.AssemblyReference.cache
+F:\Kuliah\S2- Pemograman\kalkulator\obj\Debug\net6.0\kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+F:\Kuliah\S2- Pemograman\kalkulator\obj\Debug\net6.0\kalkulator.AssemblyInfoInputs.cache
+F:\Kuliah\S2- Pemograman\kalkulator\obj\Debug\net6.0\kalkulator.AssemblyInfo.cs
+F:\Kuliah\S2- Pemograman\kalkulator\obj\Debug\net6.0\kalkulator.csproj.CoreCompileInputs.cache
+F:\Kuliah\S2- Pemograman\kalkulator\obj\Debug\net6.0\kalkulator.dll
+F:\Kuliah\S2- Pemograman\kalkulator\obj\Debug\net6.0\refint\kalkulator.dll
+F:\Kuliah\S2- Pemograman\kalkulator\obj\Debug\net6.0\kalkulator.pdb
+F:\Kuliah\S2- Pemograman\kalkulator\obj\Debug\net6.0\kalkulator.genruntimeconfig.cache
+F:\Kuliah\S2- Pemograman\kalkulator\obj\Debug\net6.0\ref\kalkulator.dll
